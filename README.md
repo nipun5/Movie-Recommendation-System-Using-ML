@@ -55,7 +55,7 @@ Follow these steps to set up the project on your local machine: 🚀🛠️🔧<
 1.Clone the repository:<br><br>
 
 ```bash
-git clone https://github.com/Code1235/Machine-Learning-Projects
+git clone https://github.com/nipun5/Movie-Recommendation-System-Using-ML
 cd Movies-Recommendation-System
 ```
 
