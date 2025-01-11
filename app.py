@@ -29,7 +29,7 @@ This system uses smart algorithms like **content-based filtering** to provide pe
 
 ### Curious About the Code?  
 The full implementation is available on my GitHub, complete with documentation to help you dive right in.  
-👉 [Visit My GitHub](https://github.com/Code1235/Machine-Learning-Projects/tree/main/Movies%20Recommendation%20System)  
+👉 [Visit My GitHub](https://github.com/nipun5/Movie-Recommendation-System-Using-ML)  
 
 Thanks for stopping by, and happy exploring!
 """
